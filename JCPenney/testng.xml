@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Sample test ramework execution" verbose="1" >
+  <test name="initial tests" >
+    <classes>
+       <class name="com.testrunner.TestRunner" />
+    </classes>
+  </test>
+  </suite>
